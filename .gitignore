@@ -1,0 +1,8 @@
+*~
+*pyc
+*swp
+releases/*
+dist/*
+MANIFEST
+build/*
+gprof2dot.py
